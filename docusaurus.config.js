@@ -9,7 +9,7 @@ const config = {
   title: 'WaveHosting Wiki',
   tagline: 'Die Dokumentation von WaveHosting. Tutorials, Anleitungen und nützliche Ratschläge - gesammelt an einem zentralen und übersichtlichen Ort.',
   url: 'https://wavehosting.de',
-  baseUrl: '/wiki/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -34,10 +34,12 @@ const config = {
       ({
         docs: {
           path: 'wiki',
-          routeBasePath: '/',
+          routeBasePath: '/wiki/',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          path: 'blog',
+          routeBasePath: '/blog/',
           showReadingTime: true,
         },
         theme: {
@@ -54,14 +56,14 @@ const config = {
         title: 'WaveHosting Wiki',
         logo: {
           alt: 'WaveHosting Wiki',
-          src: 'img/logo.svg',
+          src: 'img/brand/wave-socials.jpg',
         },
         items: [],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} WaveHosting.de`,
       },
       prism: {
         theme: lightCodeTheme,
