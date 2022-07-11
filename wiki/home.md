@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Willkommen bei **WaveHosting**, dem neuen Zuhause für deine Projekte.
 
-## Über unser Wiki
+## 🤓 Über unser Wiki
 
 In dieser Dokumentation findest du **Infos** & **Tutorials** rund um unsere Produkte.
 
