@@ -1,48 +1,32 @@
 ---
 sidebar_position: 1
-sidebar_label: Sartseite
 ---
 
-# Tutorial Intro
+# Willkommen bei WaveHosting!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<img src="https://wavehosting.de/assets/img/logo/logo.png" alt="WaveHosting" width="400"/>
 
-## Getting Started
+## Über unser Wiki
 
-Get started by **creating a new site**.
+In dieser Dokumentation findest du **Infos** & **Tutorials** rund um unsere Produkte.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+### 👑 Kunde ist König!
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Wir bei WaveHosting legen großen Wert auf die Zufriedenheit unserer Kunden. Deshalb bekommst du bei uns nicht nur Server und Webspaces von höchster Qualität, sondern auch Anleitungen und Support, damit dein Projekt zum vollen Erfolg wird!
 
-## Generate a new site
+### 📄 Inhalt
 
-Generate a new Docusaurus site using the **classic template**.
+Egal ob **Webspace**, **KVM Server** oder **dein eigenes VPN**. Wir versorgen dich mit Anleitungen und Support für all unsere Produkte und noch mehr!
 
-The classic template will automatically be added to your project after you run the command:
+Navigiere einfach am linken Seitenrand zu *Tutorial Basics*, um die wichtigsten Grundtutorials zu sehen. Unter *Extra Tutorials* findest du weitere Anleitungen, um dein Projekt auch wirklich zu etwas ganz besonderm zu machen.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+>**💡 Tipp:** Wenn du nach etwas bestimmten suchst, nutze doch einfach die **Suchfunktion**, indem du auf den *Lupen-Icon* klickst.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 🤝 Unser Versprechen
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### 👨🏽‍💻 24/7 Support
 
-## Start your site
+Unser Team steht dir 24/7 via **Ticketsystem** oder auch **telefonisch** zur Hilfe bereit.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Ruf' uns einfach an unter ☎️ [**+49 731 280 60 69 5**](tel:+4973128060695), schreib' uns eine Mail an ✉️[**info@wavehosting.de**](mailto:info@wavehosting.de) oder nutze das [**Ticketsystem im Kundenbereich**](https://wavehosting.de/shop/supporttickets.php).
