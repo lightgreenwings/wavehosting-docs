@@ -3,46 +3,39 @@ sidebar_position: 10
 sidebar_label: Allgemein
 ---
 
-# Tutorial Intro
+# Domains bei WaveHosting - StartUp Guide
+-----
+## Wie benutze ich den Guide?
+Hier findest du alle **Informationen über die DNS Verwaltung** für deine Domain.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Über die Sidebar ist das Untermenü "DNS Records" erreichbar. Dort wird jeder einzelne erstellbare Record erklärt und welche Funktionen dieser mit sich bringt.
 
-## Getting Started
+## Die unterschiedlichen DNS Verwaltungen
 
-Get started by **creating a new site**.
+Die interne DNS Verwaltung kannst du ausschließlich mit unseren Nameservern verwenden. [Mehr dazu findest du hier](#nameserver-für-die-wavehosting-dns-verwaltung).
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Du kannst mit deiner Domain bei WaveHosting zwei unterschiedliche Typen von DNS Verwaltungen nutzen. Die Auswahl triffst du durch die Eingabe der Nameserver.
+### WaveHosting DNS Verwaltung
 
-### What you'll need
+Wir haben die WaveHosting DNS Verwaltung für Domains, die unsere Nameserver hinterlegt haben, so einfach wie möglich gestaltet.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Für jeden erstellbaren Record wird gleichzeitig die Konfiguration in Worten in einem Textfeld über den Einstellmöglichkeiten erklärt. So können Records wie der SRV Record oder der MX Record einfacher und schneller erstellt werden.
 
-## Generate a new site
+> Hier ein Beispiel für einen SRV Record zur Weiterleitung auf einen Minecraft Server:
+![wavehosting dns verwaltung](../../static/img/domains/dns-verwaltung.png)
+ 
+### Externe DNS Verwaltung
 
-Generate a new Docusaurus site using the **classic template**.
+Du kannst in der Domainverwaltung auch externe Nameserver für die Domain hinterlegen. Die WaveHosting DNS Verwaltung ist dann jedoch nicht mehr verfügbar und die des externen Anbieters muss verwendet werden.
 
-The classic template will automatically be added to your project after you run the command:
+Wir können für externe Dienstleister leider auch nur begrenzt Support geben, weshalb wir unsere internen Nameserver empfehlen.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+#### Nameserver für die WaveHosting DNS Verwaltung:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+| Nameserver    | Domain Eintrag |
+|---------------|----------------|
+| 1. Nameserver | a.ns14.net     |
+| 2. Nameserver | b.ns14.net     |
+| 3. Nameserver | c.ns14.net     |
+| 4. Nameserver | d.ns14.net     |
+| 5. Nameserver | `leer`         |

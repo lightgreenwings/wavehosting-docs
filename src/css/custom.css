@@ -40,3 +40,9 @@ a:any-link:hover {
     display: none !important;
   }
 }
+blockquote {
+  background-color: rgba(73,141,238,0.2);
+  border-left: 6px solid;
+  padding: 20px 15px;
+  border-color: #498dee;
+}

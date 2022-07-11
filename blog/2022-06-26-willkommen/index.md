@@ -12,7 +12,7 @@ tags: [WaveHosting, Willkommen, Blog]
 
 Hey, wir sind Lukas und Marco von WaveHosting.
 Es freut uns sehr, dich auf unserem Blog begrüßen zu dürfen!
-
+<!--truncate-->
 Neben spannenden Stories rund um unser Unternehmen und exklusiven Einblicken hinter die Kulissen erfährst du hier über die neuesten News zu neuen Produkten, Features und Updates.
 
 Wenn du nichts mehr verpassen willst, dann tritt doch einfach unserem **Discord-Server** bei!
