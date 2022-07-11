@@ -6,6 +6,8 @@ sidebar_position: 1
 
 <img src="https://wavehosting.de/assets/img/logo/logo.png" alt="WaveHosting" width="400"/>
 
+Willkommen bei **WaveHosting**, dem neuen Zuhause für deine Projekte.
+
 ## Über unser Wiki
 
 In dieser Dokumentation findest du **Infos** & **Tutorials** rund um unsere Produkte.
@@ -30,3 +32,17 @@ Navigiere einfach am linken Seitenrand zu *Tutorial Basics*, um die wichtigsten 
 Unser Team steht dir 24/7 via **Ticketsystem** oder auch **telefonisch** zur Hilfe bereit.
 
 Ruf' uns einfach an unter ☎️ [**+49 731 280 60 69 5**](tel:+4973128060695), schreib' uns eine Mail an ✉️[**info@wavehosting.de**](mailto:info@wavehosting.de) oder nutze das [**Ticketsystem im Kundenbereich**](https://wavehosting.de/shop/supporttickets.php).
+
+### 💯 98,4% garantierte Uptime
+
+Unsere optimierten, nahezu ausfallfreien Server stehen dir rund um die Uhr zur Verfügung, damit deine Projekte immer sicher und stabil sind.
+
+### 🙈 Wir sind kein 08/15 Hoster!
+
+**Kundennähe**, **Transparenz** und **Vertrauen** sind die Schlüsselwörter unserer Vision!
+
+WaveHosting ist ein junges, stetig wachsendes Unternehmen.
+Wir sind kein 08/15 Hoster, da wir im Gegensatz zu unseren Mitbewerbern den Fokus auf die Kundenzufriedenheit legen.
+Wir bieten dir die perfekt für dich passende Hostinglösung für dich und dein Projekt. Solltest du ein individuelles Angebot benötigen kannst du dich einfach bei uns melden und wir besprechen alles weitere zusammen!
+
+Glaubst du nicht? Überzeuge dich doch einfach selbst! Mit unseren **monatlich kündbaren** Angeboten kannst du ganz einfach, ohne Risiko ausprobieren.
