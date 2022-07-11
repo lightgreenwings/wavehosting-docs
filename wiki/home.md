@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Willkommen bei WaveHosting!
-
+-----
 <img src="https://wavehosting.de/assets/img/logo/logo.png" alt="WaveHosting" width="400"/>
 
 Willkommen bei **WaveHosting**, dem neuen Zuhause für deine Projekte.
