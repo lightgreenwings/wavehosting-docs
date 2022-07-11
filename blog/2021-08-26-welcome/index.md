@@ -1,25 +1,19 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: Willkommen
+title: Willkommen
+authors: [lh, mf]
+tags: [WaveHosting, Willkommen, Blog]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+### Willkommen auf dem WaveHosting Blog!
+-----
 
-Simply add Markdown files (or folders) to the `blog` directory.
+#### Eine Nachricht an dich :)
 
-Regular blog authors can be added to `authors.yml`.
+Hey, wir sind Lukas und Marco von WaveHosting.
+Es freut uns sehr, dich auf unserem Blog begrüßen zu dürfen!
 
-The blog post date can be extracted from filenames, such as:
+Neben spannenden Stories rund um unser Unternehmen und exklusiven Einblicken hinter die Kulissen erfährst du hier über die neuesten News zu neuen Produkten, Features und Updates.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Wenn du nichts mehr verpassen willst, dann tritt doch einfach unserem **Discord-Server** bei!
+<iframe src="https://discord.com/widget?id=990976703230787604&theme=light" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
