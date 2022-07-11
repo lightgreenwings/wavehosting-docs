@@ -45,4 +45,4 @@ WaveHosting ist ein junges, stetig wachsendes Unternehmen.
 Wir sind kein 08/15 Hoster, da wir im Gegensatz zu unseren Mitbewerbern den Fokus auf die Kundenzufriedenheit legen.
 Wir bieten dir die perfekt für dich passende Hostinglösung für dich und dein Projekt. Solltest du ein individuelles Angebot benötigen kannst du dich einfach bei uns melden und wir besprechen alles weitere zusammen!
 
-Glaubst du nicht? Überzeuge dich doch einfach selbst! Mit unseren **monatlich kündbaren** Angeboten kannst du ganz einfach, ohne Risiko ausprobieren.
+Glaubst du nicht? Überzeuge dich doch einfach selbst! Mit unseren **monatlich kündbaren** Angeboten kannst du unsere Services ganz einfach, ohne Risiko ausprobieren.

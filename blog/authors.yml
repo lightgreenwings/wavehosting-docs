@@ -1,17 +1,12 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+lh:
+  name: Lukas Hübner
+  title: WaveHosting Geschäftsführung
+  url: https://wavehosting.de
+  image_url: http://s.gravatar.com/avatar/b5ba9a59333eabc321bd050dc98e211c?s=80
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+mf:
+  name: Marco Fischer
+  title: Public Relations
+  url: https://wavehosting.de
+  image_url: http://s.gravatar.com/avatar/53011b6e5c7bb6f74ec30ba6f8d227e8?s=80
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
