@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'WaveHosting Wiki',
-  tagline: 'Die Dokumentation von WaveHosting. Tutorials, Anleitungen und nützliche Ratschläge - gesammelt an einem zentralen und übersichtlichen Ort.',
+  title: 'WaveHosting',
+  tagline: 'WaveHosting zum lesen. Tutorials, Anleitungen und nützliche Ratschläge - gesammelt an einem zentralen und übersichtlichen Ort.',
   url: 'https://wavehosting.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -46,17 +46,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'WaveHosting Wiki',
+        title: 'WaveHosting',
         logo: {
-          alt: 'WaveHosting Wiki',
+          alt: 'WaveHosting',
           src: 'img/brand/wave-social.png',
         },
-        items: [],
+        items: [
+          {
+            href: "https://wavehosting.de",
+            label: "Zur Website",
+            position: "right",
+          },
+        ],
       },
       footer: {
         style: 'light',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} WaveHosting.de`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://wavehosting.de/">wavehosting.de</a> - <a href="https://wavehosting.de/impressum">Impressum</a> - <a href="https://wavehosting.de/datenschutz">Datenschutz</a>`,
       },
       prism: {
         theme: lightCodeTheme,
