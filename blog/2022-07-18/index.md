@@ -6,6 +6,7 @@ tags: [WaveHosting, Neues Produkt, IPv6]
 ---
 
 ### NEU: Der KVM Server Nano, für die Projekte, die keine IPv4-Adresse brauchen.
+
 -----
 
 #### KVM Server für bereits 1€ / Monat
