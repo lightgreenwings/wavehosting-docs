@@ -5,10 +5,11 @@ authors: [lh, mf]
 tags: [WaveHosting, Willkommen, Blog]
 ---
 
-### Willkommen auf dem WaveHosting Blog!
+## Willkommen auf dem WaveHosting Blog!
+
 -----
 
-#### Eine Nachricht an dich :)
+### Eine Nachricht an dich :)
 
 Hey, wir sind Lukas und Marco von WaveHosting.
 Es freut uns sehr, dich auf unserem Blog begrüßen zu dürfen!
