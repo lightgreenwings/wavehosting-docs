@@ -16,7 +16,7 @@ Dann haben wir genau den richtigen Server für dich!👀
 Unser KVM Server Nano hat nur eine IPv6 und ist bereits für nur 1€ erhältlich. 🔥
 
 Jetzt zuschlagen: https://wavehosting.de/kvm-nano
-
+<!--truncate-->
 ### Warum sollte man einen KVM Server ohne IPv4-Adresse mieten?
 
 Manchmal braucht man einfach nur einen passenden Server für ein kleineres Projekt oder es ist allgemein keine IPv4-Adresse nötig.
