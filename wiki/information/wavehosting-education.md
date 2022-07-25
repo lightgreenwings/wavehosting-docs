@@ -1,6 +1,6 @@
 ---
-sidebar_position: 15
-sidebar_label: Studentenrabatt
+sidebar_position: 40
+sidebar_label: WaveHosting Education
 ---
 # WaveHosting Education
 

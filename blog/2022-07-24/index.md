@@ -2,7 +2,7 @@
 slug: SUMMERSALE
 title: SUMMERSALE
 authors: [lh]
-tags: [WaveHosting, Neues Produkt, Domains, Aktion]
+tags: [WaveHosting, KVM, Aktion]
 ---
 
 ## Sichere Dir noch Heute Deinen Deal Server

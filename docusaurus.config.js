@@ -53,10 +53,21 @@ const config = {
         },
         items: [
           {
-            href: "https://wavehosting.de",
-            label: "Zur Website",
-            position: "right",
+            to: "https://wavehosting.de",
+            label: "Startseite",
+            position: "left",
           },
+          {
+            to: 'wiki/home/',
+            label: 'Wiki',
+            position: 'left',
+          },
+          {
+            to: 'blog/',
+            label: 'Blog',
+            position: 'left',
+          },
+
         ],
       },
       footer: {
