@@ -8,7 +8,8 @@ tags: [WaveHosting, Support, vServer, KVM]
 ## Du brauchst Hilfe beim Setup?
 
 Als Hosting-Anbieter wissen wir natürlich, wie sehr einen das ganze alles manchmal in den Wahnsinn treiben kann. Auch wir sind mal froh, wenn uns eine helfende Hand beisteht.
-<br> Egal ob Installation eines Betriebssystems, Setup eines Programms oder Beheben eines Fehlers. Manchmal braucht man einfach etwas Unterstützung.
+
+Egal ob Installation eines Betriebssystems, Setup eines Programms oder Beheben eines Fehlers. Manchmal braucht man einfach etwas Unterstützung.
 
 
 <!--truncate-->
